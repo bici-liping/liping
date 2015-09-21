@@ -477,13 +477,13 @@
       <value>
         <name>USERID</name>
         <rename>USERID</rename>
-        <default>0</default>
+        <default/>
         <type>String</type>
       </value>
       <value>
         <name>DEVCID</name>
         <rename>DEVCID</rename>
-        <default>0</default>
+        <default/>
         <type>String</type>
       </value>
     </lookup>
@@ -593,7 +593,7 @@
 <condition>
  <negated>N</negated>
  <leftvalue>USERID</leftvalue>
- <function>&#x3d;</function>
+ <function>IS NULL</function>
  <rightvalue/>
  <value><name>constant</name><type>String</type><text>0</text><length>-1</length><precision>-1</precision><isnull>N</isnull><mask/></value> </condition>
     </compare>

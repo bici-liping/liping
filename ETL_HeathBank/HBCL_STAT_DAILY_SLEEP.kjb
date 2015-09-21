@@ -95,7 +95,7 @@
       <exec_per_row>N</exec_per_row>
       <clear_rows>N</clear_rows>
       <clear_files>N</clear_files>
-      <set_logfile>Y</set_logfile>
+      <set_logfile>N</set_logfile>
       <logfile>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;etl</logfile>
       <logext>log</logext>
       <add_date>Y</add_date>
@@ -128,7 +128,7 @@
       <exec_per_row>N</exec_per_row>
       <clear_rows>N</clear_rows>
       <clear_files>N</clear_files>
-      <set_logfile>Y</set_logfile>
+      <set_logfile>N</set_logfile>
       <logfile>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;etl</logfile>
       <logext>log</logext>
       <add_date>Y</add_date>
@@ -161,7 +161,7 @@
       <exec_per_row>N</exec_per_row>
       <clear_rows>N</clear_rows>
       <clear_files>N</clear_files>
-      <set_logfile>Y</set_logfile>
+      <set_logfile>N</set_logfile>
       <logfile>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;etl</logfile>
       <logext>log</logext>
       <add_date>Y</add_date>
@@ -194,7 +194,7 @@
       <exec_per_row>N</exec_per_row>
       <clear_rows>N</clear_rows>
       <clear_files>N</clear_files>
-      <set_logfile>Y</set_logfile>
+      <set_logfile>N</set_logfile>
       <logfile>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;etl</logfile>
       <logext>log</logext>
       <add_date>Y</add_date>
@@ -227,7 +227,7 @@
       <exec_per_row>N</exec_per_row>
       <clear_rows>N</clear_rows>
       <clear_files>N</clear_files>
-      <set_logfile>Y</set_logfile>
+      <set_logfile>N</set_logfile>
       <logfile>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;etl</logfile>
       <logext>log</logext>
       <add_date>Y</add_date>
@@ -260,7 +260,7 @@
       <exec_per_row>N</exec_per_row>
       <clear_rows>N</clear_rows>
       <clear_files>N</clear_files>
-      <set_logfile>Y</set_logfile>
+      <set_logfile>N</set_logfile>
       <logfile>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;etl</logfile>
       <logext>log</logext>
       <add_date>Y</add_date>
